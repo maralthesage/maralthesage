@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Maral
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning swift, also working on my thesis on transfer learning for plant identification. i am gonna do that using python.
-- 💞️ I’m looking to collaborate on making some positive changes in the world, be it small.
+- 👀 I’m interested in learning, meditation, reading, and meeting people from around the world.
+- 🌱 I’m currently learning Swift, also working on my thesis on transfer learning for plant identification. I am gonna do that using Python and TF.
 - 📫 Reach me through maral [dot] sheikhzadeh [at] gmail [dot] com
 
 <!---
