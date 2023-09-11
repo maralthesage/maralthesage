@@ -1,25 +1,13 @@
 
 
 ## Intro
-- 👋 Hi, my name is Maral
-- 📫 Reach me through maral [dot] sheikhzadeh [at] gmail [dot] com
+Hi All👋,
+I am a data scientist with an interest in extracting meaningful insights from data and make data-driven decisions. I am also interested in developing solutions that can benefit myself or others. For that, I am opening to learning new skills in coding and design, whatever it takes to build an idea into a software/app or any useful format.
 
 
 
-## Socials
-<div id="badges">
-  <a href="https://www.linkedin.com/in/maralsheikhzadeh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://medium.com/@maralthesage">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  
-  <a href="https://twitter.com/maralthemoral">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
+
 
 
 <!---
