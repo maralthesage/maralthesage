@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/Jcf6CKs/Anything-worth-having-takes-time.png">
+<img src="https://i.ibb.co/fXnCnJ4/github.png">
 
 
 Hello World,
