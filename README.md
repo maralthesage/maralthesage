@@ -4,7 +4,7 @@
 
 Hello World,
 
-I am a data scientist with an interest in extracting meaningful insights from data and make data-driven decisions. I am also interested in developing solutions that can benefit myself or others. For that, I am opening to learning new skills in coding and design, whatever it takes to build an idea into a software/app or any useful format.
+I am a data scientist with an interest in extracting meaningful insights from data and make data-driven decisions using machine learning and deep learning. I am also interested in developing code-based solutions that can benefit myself or others. Coding is fun, and I'd like to connect with those of you who share the same passion. Let's learn together!
 
 You can find out more about me on <a href="https://maralsheikhzadeh.com">maralsheikhzadeh.com</a>
 <div >
