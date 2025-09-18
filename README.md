@@ -45,5 +45,3 @@ Coding is not just my work—it’s my playground. Let’s connect, collaborate,
 - 📧 maral.sheikhzadeh@gmail.com  
 - 🌐 [GitHub Projects](https://github.com/maralthesage)  
 
----
-✨ *“Data is the new oil, but insight is the engine.”*  
