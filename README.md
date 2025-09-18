@@ -19,18 +19,16 @@ Coding is not just my work—it’s my playground. Let’s connect, collaborate,
 ---
 
 ## 🛠️ Tech Stack
-<div>
-<img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
-<img height="25" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png">
-<img height="25" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png">
-<img height="25" alt="sql" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png">
-<img height="25" alt="pyspark" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png">
-<img height="25" alt="airflow" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-airflow/apache-airflow.png">
-<img height="25" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
-<img height="25" alt="huggingface" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4">
-<img height="25" alt="langchain" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
-<img height="25" alt="tableau" src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png">
-</div>
+
+| Category            | Tools & Frameworks |
+|---------------------|--------------------|
+| Programming         | Python, SQL, Bash |
+| ML/DL               | PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM |
+| Data Engineering    | PySpark, Prefect, Airflow, ETL/ELT, CDC |
+| NLP & LLMs          | HuggingFace, LangChain, spaCy |
+| Visualization & BI  | Qlik Sense, Tableau, Plotly, Matplotlib, Seaborn |
+| Deployment & MLOps  | Flask, Docker, GitHub Actions |
+
 
 ---
 
