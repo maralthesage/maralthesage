@@ -5,8 +5,6 @@
 I’m a **Data Scientist** passionate about transforming data into actionable insights and building intelligent solutions with **Machine Learning, Deep Learning, and Generative AI**.  
 I enjoy designing **scalable data pipelines**, developing **predictive models**, and experimenting with **LLMs for real-world applications**.  
 
-Coding is not just my work—it’s my playground. Let’s connect, collaborate, and learn together! 🚀  
-
 ---
 
 ## 🔍 What I Do
